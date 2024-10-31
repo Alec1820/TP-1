@@ -1,0 +1,200 @@
+body {
+
+background-color: turquoise;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+    .a1
+    {
+    border: 2px solid black;
+    background-color: white;    
+    width: 100vh;
+    height: 160vb;
+    margin-left: 29% ;
+    }
+
+.zz
+{
+background-color: aqua;
+border: 2px solid black;
+height: 200px;
+width: 600px;
+margin-left: 8%;
+margin-top: 3%;
+border-radius: 13px;
+}
+
+.b1
+{
+margin-left: 3%;
+margin-top: 3%;
+height: 150px;
+width: 300px;
+float:left;
+}
+
+.h1
+{
+font-size: 20px ;
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+img
+{
+width: 150px;
+height: 150px;
+}
+
+.b2 
+{
+float: right;
+margin-right: 3%;
+margin-top: 3%;
+height: 150px;
+width: 150px;
+}
+
+.vv
+{
+    border: 2px solid black;
+    height: 200px;
+    width: 600px;
+    margin-left: 8%;
+    margin-top: 3%;
+    border-radius: 13px;
+
+}
+
+h1
+{
+font-size: 20px;
+margin-left: 3%;
+}
+
+.années
+{
+    margin-left: 3%;
+    height: 150px;
+    width: 150px;
+    float: left;
+}
+
+.formation
+{
+    margin-left: 3%;
+    height: 150px;
+    width: 300px;
+    float: right;
+
+
+}
+
+.nn
+{
+    border: 2px solid black;
+    height: 200px;
+    width: 600px;
+    margin-left: 8%;
+    margin-top: 3%;
+    border-radius: 13px;
+
+}
+
+h1
+{
+font-size: 20px;
+margin-left: 3%;
+}
+
+.années
+{
+    margin-left: 3%;
+    height: 150px;
+    width: 150px;
+    float: left;
+}
+
+.expériences
+{
+    margin-left: 3%;
+    height: 150px;
+    width: 300px;
+    float: right;
+
+
+}
+
+.kk
+{
+    border: 2px solid black;
+    height: 200px;
+    width: 600px;
+    margin-left: 8%;
+    margin-top: 3%;
+    border-radius: 13px;
+
+}
+
+h1
+{
+font-size: 20px;
+margin-left: 3%;
+}
+
+.langues
+{
+    margin-left: 3%;
+    height: 150px;
+    width: 150px;
+    float: left;
+}
+
+.niveau
+{
+    margin-left: 3%;
+    height: 150px;
+    width: 300px;
+    float: right;
+
+
+}
+
+
+.ll
+{
+    border: 2px solid black;
+    height: 200px;
+    width: 600px;
+    margin-left: 8%;
+    margin-top: 3%;
+    border-radius: 13px;
+
+}
+
+h1
+{
+font-size: 20px;
+margin-left: 3%;
+}
+
+.domaine
+{
+    margin-left: 3%;
+    height: 150px;
+    width: 150px;
+    float: left;
+}
+
+.exemple
+{
+    margin-left: 3%;
+    height: 150px;
+    width: 300px;
+    float: right;
+
+
+}
